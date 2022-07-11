@@ -3,8 +3,8 @@ Rotates the servo to move the pixels of a mirror
 
 Can be edited to move to different degrees at different times
 
-Made using [Tinkercad](https://www.tinkercad.com/learn/circuits)
+Created using [Tinkercad](https://www.tinkercad.com/learn/circuits)
 
 ## Circuit
 The breadboard here is optional
-![image](https://user-images.githubusercontent.com/109060633/178203052-58b3ca80-b58a-430c-972d-b787189aa1ff.png)
+![Epic Kieran](https://user-images.githubusercontent.com/109060633/178204847-388723c5-a0b9-4ea3-a844-371f080a77d0.png)
