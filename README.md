@@ -1,5 +1,5 @@
 # Servo Pixel Mirror
-Rotates the servo to move the pixels of a mirror
+Rotates the servos to move the pixels of a mirror
 
 Can be edited to move to different degrees at different times
 
@@ -11,3 +11,5 @@ Using a breadboard is optional
 
 Without a breadboard
 ![Arduino and servo](https://user-images.githubusercontent.com/109060633/178399726-b4e6310e-56f6-4a4d-9251-4e63430bcb44.png)
+
+16 servos can be controlled using a breadboard with either the Arduino extension board or the Mega 2560
